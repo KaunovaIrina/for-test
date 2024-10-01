@@ -21,3 +21,5 @@ int main() {
 
 
 описание
+
+![Alt text](kitty.jfif)
